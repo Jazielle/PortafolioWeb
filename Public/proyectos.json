@@ -1,0 +1,33 @@
+{
+    "proyectos": [
+        {
+            "nombre": "Gestión Documental en ECONAT LTDA",
+            "descripcion": "Desarrollo e implementación de un sistema digital para gestión documental.",
+            "tecnologias": [
+                "Digitalización",
+                "Automatización",
+                "Seguridad"
+            ],
+            "enlace": ""
+        },
+        {
+            "nombre": "Auditoría de Seguridad en Redes",
+            "descripcion": "Evaluación de vulnerabilidades y protección de datos en sistemas empresariales.",
+            "tecnologias": [
+                "Pentesting",
+                "Seguridad en Redes"
+            ],
+            "enlace": ""
+        },
+        {
+            "nombre": "Administración de Servidores y Soporte",
+            "descripcion": "Mantenimiento, configuración y soporte de servidores.",
+            "tecnologias": [
+                "Servidores",
+                "Soporte Técnico",
+                "Redes"
+            ],
+            "enlace": ""
+        }
+    ]
+}

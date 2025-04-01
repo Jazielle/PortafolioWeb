@@ -1,0 +1,28 @@
+{
+    "experiencia_laboral": [
+        {
+            "empresa": "ECONAT LTDA",
+            "cargo": "Jefe de Proyecto - GESTIÓN DOCUMENTAL",
+            "duracion": "2017",
+            "descripcion": "Desarrollo e implementación de un sistema de gestión documental. Digitalización de procesos administrativos."
+        },
+        {
+            "empresa": "U.A.G.R.M. – Facultad de Contaduría Pública",
+            "cargo": "Auxiliar de Sala de Cómputo",
+            "duracion": "2005 Julio – Diciembre",
+            "descripcion": "Soporte técnico y asistencia a estudiantes en software contable y de oficina."
+        },
+        {
+            "empresa": "Corte Departamental Electoral de Santa Cruz",
+            "cargo": "Inspector de Derecho a la Identidad y Participación",
+            "duracion": "2005",
+            "descripcion": "Supervisión de procesos electorales y protección del derecho a la identidad."
+        },
+        {
+            "empresa": "Universidad Autónoma Gabriel René Moreno",
+            "cargo": "Miembro del equipo de autoevaluación",
+            "duracion": "2001",
+            "descripcion": "Participación en procesos de autoevaluación académica y curricular."
+        }
+    ]
+}

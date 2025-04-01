@@ -1,0 +1,167 @@
+{
+    "pagina_presentacion": {
+        "nombre": "Félix Bernardo Fuentes Quispe",
+        "descripcion": "Soy un profesional con más de 20 años de experiencia en Auditoría y Seguridad Informática, especializado en Ethical Hacking, administración de sistemas y bases de datos.",
+        "foto": "shared image (1).jpg",
+        "perfil": "Mi objetivo es contribuir a mejorar las infraestructuras tecnológicas y procesos de seguridad en las organizaciones."
+    },
+    "habilidades": [
+        {
+            "nombre": "Ethical Hacking y Pentesting",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Análisis de Vulnerabilidades",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Administración de Firewalls OpenSource",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Auditoría de Sistemas",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Protección de Datos",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Gestión de Accesos",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Visual Studio .NET",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Administración de Bases de Datos",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Gestión de Servidores y Redes",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Seguridad en Entornos Microsoft",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Diseño de Sistemas de Gestión Documental",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Digitalización de Archivos Empresariales",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Metodologías Ágiles",
+            "nivel": "Intermedio"
+        }
+    ],
+    "proyectos": [
+        {
+            "nombre": "Gestión Documental en ECONAT LTDA",
+            "descripcion": "Desarrollo e implementación de un sistema digital para gestión documental.",
+            "tecnologias": [
+                "Digitalización",
+                "Automatización",
+                "Seguridad"
+            ],
+            "enlace": ""
+        },
+        {
+            "nombre": "Auditoría de Seguridad en Redes",
+            "descripcion": "Evaluación de vulnerabilidades y protección de datos en sistemas empresariales.",
+            "tecnologias": [
+                "Pentesting",
+                "Seguridad en Redes"
+            ],
+            "enlace": ""
+        },
+        {
+            "nombre": "Administración de Servidores y Soporte",
+            "descripcion": "Mantenimiento, configuración y soporte de servidores.",
+            "tecnologias": [
+                "Servidores",
+                "Soporte Técnico",
+                "Redes"
+            ],
+            "enlace": ""
+        }
+    ],
+    "experiencia_laboral": [
+        {
+            "empresa": "ECONAT LTDA",
+            "cargo": "Jefe de Proyecto - GESTIÓN DOCUMENTAL",
+            "duracion": "2017",
+            "descripcion": "Desarrollo e implementación de un sistema de gestión documental. Digitalización de procesos administrativos."
+        },
+        {
+            "empresa": "U.A.G.R.M. – Facultad de Contaduría Pública",
+            "cargo": "Auxiliar de Sala de Cómputo",
+            "duracion": "2005 Julio – Diciembre",
+            "descripcion": "Soporte técnico y asistencia a estudiantes en software contable y de oficina."
+        },
+        {
+            "empresa": "Corte Departamental Electoral de Santa Cruz",
+            "cargo": "Inspector de Derecho a la Identidad y Participación",
+            "duracion": "2005",
+            "descripcion": "Supervisión de procesos electorales y protección del derecho a la identidad."
+        },
+        {
+            "empresa": "Universidad Autónoma Gabriel René Moreno",
+            "cargo": "Miembro del equipo de autoevaluación",
+            "duracion": "2001",
+            "descripcion": "Participación en procesos de autoevaluación académica y curricular."
+        }
+    ],
+    "educacion": [
+        {
+            "institucion": "UAGRM (Estudios de Posgrado)",
+            "titulo": "Maestría en Auditoría y Seguridad Informática",
+            "fecha_inicio": "",
+            "fecha_fin": ""
+        },
+        {
+            "institucion": "UAGRM",
+            "titulo": "Licenciado en Ingeniería Informática",
+            "fecha_inicio": "",
+            "fecha_fin": "2012"
+        }
+    ],
+    "certificaciones": [
+        {
+            "nombre": "Ethical Pentester Certified",
+            "entidad": "The Hacking Day",
+            "fecha": "2002"
+        },
+        {
+            "nombre": "Auditor de Sistema de Información TI",
+            "entidad": "COSIM TI",
+            "fecha": "2017"
+        },
+        {
+            "nombre": "Ethical Hacking Conference",
+            "entidad": "Ethical Hacking Consultores",
+            "fecha": "2013"
+        },
+        {
+            "nombre": "Firewall OpenSource Empresarial",
+            "entidad": "The Hacking Day",
+            "fecha": "2017"
+        },
+        {
+            "nombre": "Manejo Profesional de Archivos y Gestión Documental",
+            "entidad": "CRITERIA INC.",
+            "fecha": "2016"
+        }
+    ],
+    "contacto": {
+        "correo": "FelixFuenteQuispe@gmail.com",
+        "linkedin": "https://linkedin.com",
+        "github": "https://github.com",
+        "direccion": "",
+        "telefono": ""
+    }
+}

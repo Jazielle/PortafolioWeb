@@ -1,0 +1,56 @@
+{
+    "habilidades": [
+        {
+            "nombre": "Ethical Hacking y Pentesting",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Análisis de Vulnerabilidades",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Administración de Firewalls OpenSource",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Auditoría de Sistemas",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Protección de Datos",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Gestión de Accesos",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Visual Studio .NET",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Administración de Bases de Datos",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Gestión de Servidores y Redes",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Seguridad en Entornos Microsoft",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Diseño de Sistemas de Gestión Documental",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Digitalización de Archivos Empresariales",
+            "nivel": "Avanzado"
+        },
+        {
+            "nombre": "Metodologías Ágiles",
+            "nivel": "Intermedio"
+        }
+    ]
+}

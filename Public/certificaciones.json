@@ -1,0 +1,29 @@
+{
+    "certificaciones": [
+        {
+            "nombre": "Ethical Pentester Certified",
+            "entidad": "The Hacking Day",
+            "fecha": "2002"
+        },
+        {
+            "nombre": "Auditor de Sistema de Información TI",
+            "entidad": "COSIM TI",
+            "fecha": "2017"
+        },
+        {
+            "nombre": "Ethical Hacking Conference",
+            "entidad": "Ethical Hacking Consultores",
+            "fecha": "2013"
+        },
+        {
+            "nombre": "Firewall OpenSource Empresarial",
+            "entidad": "The Hacking Day",
+            "fecha": "2017"
+        },
+        {
+            "nombre": "Manejo Profesional de Archivos y Gestión Documental",
+            "entidad": "CRITERIA INC.",
+            "fecha": "2016"
+        }
+    ]
+}

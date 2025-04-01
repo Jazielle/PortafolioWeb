@@ -1,0 +1,16 @@
+{
+    "educacion": [
+        {
+            "institucion": "UAGRM (Estudios de Posgrado)",
+            "titulo": "Maestría en Auditoría y Seguridad Informática",
+            "fecha_inicio": "",
+            "fecha_fin": ""
+        },
+        {
+            "institucion": "UAGRM",
+            "titulo": "Licenciado en Ingeniería Informática",
+            "fecha_inicio": "",
+            "fecha_fin": "2012"
+        }
+    ]
+}
